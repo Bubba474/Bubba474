@@ -56,6 +56,7 @@ Simulação completa de ataque contra um ambiente corporativo Windows / Active D
 |---|---|---|
 | 🏰 **[adlab-forge](https://github.com/Bubba474/adlab-forge)** | Home lab de Active Directory reproduzível + matriz ataque→detecção mapeada ao MITRE ATT&CK, com regras Sigma | Red Team |
 | 🔎 **[appsec-toolkit](https://github.com/Bubba474/appsec-toolkit)** | `httpposture`: analisador de postura de segurança HTTP (headers, TLS, cookies) — Python tipado, testado e com CI | AppSec |
+| 🛡️ **[detection-as-code](https://github.com/Bubba474/detection-as-code)** | Regras Sigma + YARA versionadas, mapeadas ao MITRE ATT&CK e validadas em CI | Blue Team |
 | 🚩 **[ctf-writeups](https://github.com/Bubba474/ctf-writeups)** | Coletânea de writeups de CTF com metodologia e foco em causa raiz | CTF |
 
 ---
@@ -121,7 +122,9 @@ Simulação completa de ataque contra um ambiente corporativo Windows / Active D
 | 🔵 **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 2026 |
 | 🟢 **Ethical Hacker** | Cisco Networking Academy | 2026 |
 
-**Cursos complementares (Alura):** Pentest web (SQLi, XSS, sqlmap) · Segurança de rede (Firewall, WAF, SIEM) · Proxy reverso, SSH e DNS · Modelagem de ameaças · Segurança web em Java I & II · Cloud Security · Cibersegurança: fundamentos e práticas integradas
+**Cursos complementares (Alura):** Pentest web (SQLi, XSS, sqlmap) · Segurança de rede (Firewall, WAF, SIEM) · Proxy reverso, SSH e DNS · Modelagem de ameaças · Segurança web em Java I & II · Cloud Security · Automação de Fluxos (N8N + IA) · Cibersegurança: fundamentos e práticas integradas
+
+**Eventos:** 6º Fórum ITL — Cibersegurança e Gestão de Riscos (2026)
 
 ---
 
