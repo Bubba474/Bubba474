@@ -113,9 +113,20 @@ Simulação completa de ataque contra um ambiente corporativo Windows / Active D
 
 ---
 
-### 🎓 Formação & cursos
+### 📜 Certificações
+
+| Certificação | Emissor | Ano |
+|---|---|---|
+| 🔴 **Certified AD Red Team Specialist (AD-RTS)** | CyberWarfare Labs | 2026 |
+| 🔵 **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 2026 |
+| 🟢 **Ethical Hacker** | Cisco Networking Academy | 2026 |
+
+**Cursos complementares (Alura):** Pentest web (SQLi, XSS, sqlmap) · Segurança de rede (Firewall, WAF, SIEM) · Proxy reverso, SSH e DNS · Modelagem de ameaças · Segurança web em Java I & II · Cloud Security · Cibersegurança: fundamentos e práticas integradas
+
+---
+
+### 🎓 Formação
 
 **Engenharia de Cibersegurança** — Instituto Infnet *(em andamento)*
-Cursos complementares (Alura): Pentest web (SQLi, XSS, sqlmap) · Segurança de rede (Firewall, WAF, SIEM) · Proxy reverso, SSH e DNS · Modelagem de ameaças · Segurança web em Java · Cloud Security
 
 <p align="center"><sub>⚖️ Todo o conteúdo deste perfil é para fins educacionais e de segurança defensiva, executado em ambientes autorizados.</sub></p>
